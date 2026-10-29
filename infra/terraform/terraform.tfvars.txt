@@ -1,0 +1,1 @@
+alert_emails = ["moiseenkogleb2@gmail.com"]
